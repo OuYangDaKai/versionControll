@@ -8,6 +8,7 @@ class VersionControllApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("Hello World");
     }
 
 }
